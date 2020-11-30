@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<datos>
+  <ventas>
+    <productos>
+      <producto codigo="1" tipo="A">
+        <nombre>Atun</nombre>
+        <descripccion>Lomos de atun en aceite</descripccion>
+        <precio>12.58</precio>
+      </producto>
+    </productos>
+  </ventas>
+</datos>
